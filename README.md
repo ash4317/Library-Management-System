@@ -2,9 +2,9 @@
 Source codes for OOPD project - Library Management System
 
 Project by -
-Name: Ashwin Milind Kulkarni
-Branch: Electrical Engineering
-MIS: 111705010
+Name: Ashwin Milind Kulkarni<br />
+Branch: Electrical Engineering<br />
+MIS: 111705010<br />
 
 The project is about "Designing a basic Library Management System". It is a menu-driven program that will perform the following functions :
 1) Create a user and store user info in a file for future references
@@ -24,5 +24,3 @@ Fine details - Rs. 5 per day. If one year is passed, fine is Rs. 3000 and is fix
 3) for other functions
 
 Do not manipulate the files "users.txt" and "books.txt" directly.
-
-			THANK YOU
